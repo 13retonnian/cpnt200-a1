@@ -53,5 +53,8 @@ export default {
   },
   image: {
     //options
-  }
+  },
+  router: {
+    base: '/cpnt200-a1/'
+ }
 }
