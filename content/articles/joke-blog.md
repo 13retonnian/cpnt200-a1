@@ -1,5 +1,5 @@
 ---
-title: Hilarious Joke Blog
+title: Joke Blog
 power: 9001
 ---
 
