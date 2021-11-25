@@ -26,6 +26,7 @@ https://eager-dijkstra-035d8c.netlify.app/blog/joke-blog
 - Attributions to Ashlyn Knox and Tony Grimes' classes, videos and code.
 [castle1](https://www.pexels.com/photo/castle-near-body-of-water-under-golden-hour-1843364/)
 [castle2](https://www.pexels.com/photo/scenic-photo-of-castle-during-dawn-2832044/)
+[Nuxt Blog Tutorial](https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content)
 
 #### License:
 MIT License
