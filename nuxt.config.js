@@ -55,6 +55,6 @@ export default {
     //options
   },
   router: {
-    base: '/cpnt200-a1/'
+    base: '/'
  }
 }
