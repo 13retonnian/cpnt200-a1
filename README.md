@@ -16,13 +16,10 @@ https://eager-dijkstra-035d8c.netlify.app/blog/joke-blog
 - enter the file path blog/joke-blog to access the joke blog
 - ignore that it says a1
 
-#### Github Repo:
-https://github.com/13retonnian/cpnt200-a1
-
-
 #### Problems I ran into:
 - can't get it to run on github pages it runs this readme instead of static pages
 - can't get it to show images or go to the proper page on Netlify. Fixed by changing the route in config file.
+- can't get it to show blog on Netlify
 
 #### Attributions:
 - Attributions to Ashlyn Knox and Tony Grimes' classes, videos and code.
