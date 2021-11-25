@@ -1,7 +1,7 @@
-# cpnt200-a1
+# cpnt200-a3
 
 ## SAIT Web Development
-## CPNT 200 Assignment 1
+## CPNT 200 Assignment 3
 
 ### Author Name:
 Christopher Barber
