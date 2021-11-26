@@ -1,11 +1,13 @@
 <template>
   <v-container>
-    <h1 class="text-7xl p-10 text-center"> Jokes and Castles </h1>
-    <!-- <Header /> -->
     <Header :headerPage="info" />
-    <NuxtLink to="/second">Second Page</NuxtLink>
-    <nuxt-img src="/castle1.jpg" />
+    <h1 class="text-7xl p-10 text-center">
+      Jokes
+    </h1>
     <Content v-for="joke in jokes" :key="joke.id" :contentPage="joke" />
+    <NuxtLink class="text-7xl p-10 text-center text-blue-900 block" to="/second">
+      Click here for castles
+    </NuxtLink>
     <Footer :footerPage="info" />
   </v-container>
 </template>
@@ -123,7 +125,7 @@ export default {
       ],
       jokes: [
         {
-          joke: 'Velcro is a total rip off',
+          joke: 'Velcro is a rip off',
           funnyLevel: 300
         },
         {
