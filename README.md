@@ -27,6 +27,9 @@ https://eager-dijkstra-035d8c.netlify.app/blog/joke-blog
 [castle1](https://www.pexels.com/photo/castle-near-body-of-water-under-golden-hour-1843364/)
 [castle2](https://www.pexels.com/photo/scenic-photo-of-castle-during-dawn-2832044/)
 [Nuxt Blog Tutorial](https://nuxtjs.org/tutorials/creating-blog-with-nuxt-content)
+- #1 Web Dev Team helped me finish my assignment today because they're awesome. (Icah especially, and James and Filora and Jared provided emotional support)
+- Second page wasn't loading. Icah fixed for me.
+- Content wasn't loading. Icah found the problem in content=jokes should be content=joke
 
 #### License:
 MIT License
